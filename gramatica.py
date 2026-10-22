@@ -22,7 +22,7 @@ tokens  = (
 )
 
 # Tokens
-t_REVALUAR  = r'Evaluar'
+t_REVALUAR  = r'hola'
 t_PARIZQ    = r'\('
 t_PARDER    = r'\)'
 t_CORIZQ    = r'\['
